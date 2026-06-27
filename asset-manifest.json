@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/criss-web/static/css/main.11b0098b.css",
+    "main.js": "/criss-web/static/js/main.22981913.js",
+    "index.html": "/criss-web/index.html",
+    "main.11b0098b.css.map": "/criss-web/static/css/main.11b0098b.css.map",
+    "main.22981913.js.map": "/criss-web/static/js/main.22981913.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11b0098b.css",
+    "static/js/main.22981913.js"
+  ]
+}
